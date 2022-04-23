@@ -1,8 +1,0 @@
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\obj\Debug\ArrayManager.csproj.AssemblyReference.cache
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\obj\Debug\ArrayManager.csproj.SuggestedBindingRedirects.cache
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\obj\Debug\ArrayManager.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\bin\Debug\ArrayManager.exe.config
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\bin\Debug\ArrayManager.exe
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\bin\Debug\ArrayManager.pdb
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\obj\Debug\ArrayManager.exe
-C:\Users\Home\Desktop\WorldShellC#\ArrayManager\ArrayManager\obj\Debug\ArrayManager.pdb
